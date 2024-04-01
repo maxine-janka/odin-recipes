@@ -1,3 +1,42 @@
-h1 {
-  color: red;
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #fcf3e8;
+}
+
+#title-homepage {
+  margin-top: 50;
+ text-align: center;
+
+}
+
+#homepage-recipe-list {
+  list-style: none;
+  text-align: center;
+  padding: 0;
+  line-height: 32px;
+
+}
+
+.container {
+  text-align: center;
+}
+
+h2, .recipe-title {
+  color: #47320d;
+}
+
+.recipe-title {
+  font-size: 58px;
+}
+
+#vanilla-icecream {
+  color: #c42323;
+}
+
+#ramen-noodle-soup {
+  color: #966b21;
+}
+
+#protein-pancakes {
+  color: #0b335b;
 }
